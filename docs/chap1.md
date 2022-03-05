@@ -1,2 +1,2 @@
 # chap1
-> This chapter give a simple model
+> This chapter give a simple model to
