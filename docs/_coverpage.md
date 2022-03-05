@@ -6,4 +6,4 @@
 
 ##  *Tradeoff of the current and future*
 
-> A simple documentation to learn dynamic macroeconomics for academic beginner
+> A simple documentation to learn dynamic macroeconomics for academic beginners
