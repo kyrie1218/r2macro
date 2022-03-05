@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![icon](https://raw.githubusercontent.com/kyrie1218/picgo/main/img/202203051800905.svg)
+![icon](icon.svg)
 
 # **Road to Dynamic Macroeconomics** <small>1.0</small>
 
