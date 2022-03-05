@@ -4,7 +4,6 @@
 
 # **Road to Dynamic Macroeconomics** <small>1.0</small>
 
-> An introductory documentation in dynamic macroeconomics.
+##  Tradeoff of the current and future
 
-- Kerun He
-- Chongqing University
+> A simple documentation to learn dynamic economics
