@@ -1,2 +1,2 @@
-* [Introduction](/)
-* [Chap1](chap1.md)
+* [Mathematical requirements](/)
+* [Solow Model](solow.md)
