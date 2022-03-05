@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![icon](icon.svg)
+![icon](icon.png)
 
 # **Road to Dynamic Macroeconomics** <small>1.0</small>
 
